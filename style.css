@@ -1,0 +1,89 @@
+    .one{
+        font-style:italic;
+        font-weight:bold;
+        font-size:50px;
+        padding:15px;
+        text-decoration: none;
+        color:black;
+        letter-spacing:7px;
+        
+        }
+    
+.two{
+    padding:15px;
+    font-size:20px;
+    text-decoration: none;
+    color:black;
+    margin-bottom:50%;
+}
+    .three{
+    padding:15px;
+    font-size:20px;
+    text-decoration: none;
+    color:black;
+    text-align:justify;
+}
+    .four{
+    padding:15px;
+    font-size:20px;
+    text-decoration: none;
+    color:black;
+    text-align:justify;
+}
+   .one:hover{
+       background-color:#D2D6DA;
+        color:gray;
+   }  
+    .two:hover{
+       background-color:#D2D6DA;
+        color:gray;
+   }  
+    .three:hover{
+       background-color:#D2D6DA;
+        color:gray;
+   }  
+    .four:hover{
+       background-color:#D2D6DA;
+        color:gray;
+   }  
+    
+        .links{
+            word-spacing:40px;
+        } 
+    
+
+        
+  .sprite{
+	float:right;
+    top:40px;
+    padding-top:18px;
+}
+    .sprite:hover{
+    transform:rotate(20deg);
+   }
+    
+    .sprite1{
+	float:right;
+        padding-right:30px;
+        padding-top:18px;
+}
+    .sprite1:hover{
+    transform:rotate(20deg);
+   }
+header{
+    background-color: white;
+    padding:20px;
+    width:px;
+    background-image:url('tt.jpg');
+    position:fixed;
+    right:0;
+    left:0;
+    z-index:999;
+}
+body{
+    margin:0;
+    background-color:white;
+}
+.links{
+            word-spacing:40px;
+        }
